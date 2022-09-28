@@ -23,8 +23,25 @@ a:hover{
 .cover{
     height:300px;
     margin-top:25%;
+    background-image: bbb.jpg;
 }
 .jumbotron{
     background-color:#96858F;
     color:black;
 }
+.col-sm-2{
+
+height:200px;
+    margin:50px 0px;
+}
+.front-nav-1{
+    background:#64271b;
+}
+.front-nav-2{
+    background:#354243;
+}
+.front-nav-3{
+    background:#80598d;
+}
+
+
